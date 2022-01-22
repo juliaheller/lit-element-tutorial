@@ -48,7 +48,7 @@
     "@vaadin/vaadin-text-field": "^2.6.2",
     "@webcomponents/webcomponentsjs": "^2.1.3",
     "lit-element": "^2.3.1",
-    "nanoid": "^3.1.10",
+    "nanoid": "^3.1.31",
     "pwa-helpers": "^0.9.1",
     "redux": "^4.0.5",
     "reselect": "^4.0.0"
